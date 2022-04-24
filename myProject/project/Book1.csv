@@ -1,0 +1,70 @@
+Category, Title, Places, URL, p_rating, count, itemId, Region, Budget
+Pilgrimage, Amritsar, Golden Temple,https://punjabtourism.punjab.gov.in,4.5,1000,1, North,40
+"Historic, Seaside", Panaji, Praca de lgreja,https://goa-tourism.com/,3.8,1251,2, West,30
+"Heritage, Pilgrimage", Madurai, Meenakshi Amman Temple,http://www.tamilnadutourism.org,3.7,458,3, South,50
+Heritage, Mysore, Brindavan Gardens Karanji Lake,https://www.karnatakatourism.org/,4.1,560,4, South,45
+Heritage, Jaisalmer, Thar Desert Jain Temples,http://www.tourism.rajasthan.gov.in/,4,330,5, West,20
+"Heritage, Modern", Hyderabad, Old Hyderabad,https://www.telanganatourism.gov.in/,3.2,970,6, South,25
+"Heritage, Modern", Pune, Shaniwar Wada,http://www.maharashtratourism.gov.in/,3.6,650,7, Southwest,30
+Seaside, Kochi, Fort Kochi,http://www.keralatourism.org,3.9,781,8, South,50
+"Heritage, Pilgrimage", Varanasi, Ganges Ghats,http://www.uptourism.gov.in,3.7,1121,9, Northeast,15
+"Seaside, Modern", Chennai, Fort St. George,http://www.tamilnadutourism.org,4.2,1300,10, South,45
+"Historic, Heritage, Modern", Kolkata, Victoria Memorial,https://www.wbtourismgov.in/,4.3,1530,11, Northeast,25
+Modern, Bangalore, Malls,https://www.karnatakatourism.org/,4.6,1720,12, South,50
+Heritage, Agra, Taj Mahal,http://www.uptourism.gov.in,4.9,2580,13, Northeast,60
+"Modern, Seaside", Mumbai, Gateway of India,http://www.maharashtratourism.gov.in/,4.8,2109,14, Southwest,75
+"Historic, Heritage", Jaipur, Palaces and Gardens,http://www.tourism.rajasthan.gov.in/,4.5,2000,15, West,60
+"Historic, Heritage, Modern", Delhi, Red Fort and Malls,http://www.delhitourism.gov.in/delhitourism/index.jsp,4.7,3122,16, North,65
+"Scenic, Heritage", Dharamsala, Waterfalls,https://himachaltourism.gov.in/,4.5,1320,17, North,80
+Scenic, Manali, Mountains,https://himachaltourism.gov.in/,4.4,2120,18, North,100
+Scenic, Darjeeling, Tea Gardens,https://www.wbtourismgov.in/,4.1,830,19, Northeast,45
+"Seaside, Heritage", Havelock Island, Radhanagar Beach and Marine Parks,http://www.andaman.gov.in,3.8,374,20, South,80
+"Historic, Heritage", Aurangabad, Ajanta Caves,http://www.maharashtratourism.gov.in/,3.8,1128,21, Southwest,45
+Scenic, Kodaikanal, Kodaikanal Lake,http://www.tamilnadutourism.org,4.2,1498,22, South,55
+"Pilgrimage, Seaside", Varkala, Dakshin Kashi,http://www.keralatourism.org,4.8,330,23, South,60
+Scenic, Bharatpur, Bharatpur National Park,http://www.tourism.rajasthan.gov.in/,3.7,1789,24, West,35
+"Pilgrimage, Heritage, Scenic", Bodhgaya, Mahabodhi Temple,http://www.bihartourism.gov.in,4.2,1133,25, Northeast,20
+Scenic, Sanasar, Mountains,http://www.jktourism.jk.gov.in/,4.5,128,26, North,75
+"Pilgrimage, Heritage", Ujjain, Mahakaleshwar Temple,http://www.mptourism.com,3.8,284,27, Central,45
+Scenic, Ziro, Ziro Valley,http://www.arunachaltourism.com/#0,4.5,324,28, Northeast,65
+"Pilgrimage, Scenic", Almora, Kasar Devi,https://himachaltourism.gov.in/,3.9,2656,29, North,70
+"Scenic, Heritage", Kohima, Dzukou Park,http://tourismnagaland.com/,4.1,454,30, Northeast,40
+"Heritage, Scenic", Gir, Gir National Park,https://www.gujarattourism.com/,3.6,2344,31, West,60
+Scenic, Vagamon, Ulipooni Wildlife Sanctuary,http://www.keralatourism.org,4.2,118,32, South,70
+Heritage, Alwar, Bhangarh Fort,http://www.tourism.rajasthan.gov.in/,3.2,1232,33, West,55
+Heritage, Sanchi, Sanchi Stupa,http://www.mptourism.com,3.8,1688,34, Central,40
+"Seaside, Scenic", Lakshadweep, Beaches,https://www.lakshadweeptourism.com/,4.1,565,35, Southwest,60
+Heritage, Shantiniketan, Rabindra Bhavan,https://www.wbtourismgov.in/,4,98,36, Northeast,35
+Scenic,Tarkarli, Kolamb Beach,http://www.maharashtratourism.gov.in/,4.5,112,37, Southwest,65
+"Heritage, Pilgrimage", Hampi, Virupaksha Temple,https://www.karnatakatourism.org/,4.2,346,38, South,55
+Heritage, Orchha, Orchha Fort,http://www.mptourism.com,4.1,581,39, Central,68
+Heritage, Bundi, Bundi Festival,http://www.tourism.rajasthan.gov.in/,3.8,1282,40, West,43
+Scenic, Shimla, Mall Road,https://himachaltourism.gov.in/,4,1789,41, North,80
+Heritage, Kaziranga, Kaziranga National Park,https://www.wbtourismgov.in/,4.1,456,42, Northeast,60
+"Heritage, Scenic", Garo, Garo Khasi Jantia Hills,https://tourism.mizoram.gov.in,3.7,1128,43, Northeast,39
+Scenic, Kutch, Rann of Kutch,https://www.gujarattourism.com/,3.8,1790,44, West,55
+Seaside, Daman, Gulf of Cambhat,https://www.tourismdddnh.in/,4.2,334,45, West,48
+"Heritage, Scenic", Sonepur, Sonepur Mela,http://www.bihartourism.gov.in,3.1,450,46, Northeast,35
+"Pilgrimage,Scenic", Haridwar, Ganges,http://uttarakhandtourism.gov.in/,3.8,1490,47, North,73
+"Pilgrimage,Scenic", Jammu, Vaishno Devi Temple and Hills,http://www.jktourism.jk.gov.in/,4.2,2278,48, North,82
+Scenic, Gangtok, Hill Stations,http://www.sikkimtourism.gov.in/,4,2679,49, Northeast,58
+Scenic, Leh-Ladakh, Zaskar Valley,http://www.jktourism.jk.gov.in/,3,3132,50, North,70
+Historic, Khajuraho, Archaic temples,http://www.mptourism.com,4.6,1928,51, Central,60
+"Scenic, Pilgrimage", Deoghar, Baidyanath temple,http://jharkhandtourism.gov.in/,3.8,1231,52, Northeast,25
+Scenic,Mcleodganj,Kangra Fort and Bhagsu Falls,https://www.wbtourismgov.in/,4.1,595,53, Northeast,35
+Scenic,Kasol,Kheerganga Peak Trekking,https://himachaltourism.gov.in/,3.9,1120,54,North,50
+"Pilgrimage, Heritage",Rishikesh,"Ram Jhula, Rajaji National Park",http://uttarakhandtourism.gov.in/,3.2,3212,55,North,25
+Scenic,Agumbe,Enchanting Waterfalls,https://www.karnatakatourism.org/,4.1,552,56,South,30
+Scenic,Mussoorie,"Kempty Falls, Gun Hills",http://uttarakhandtourism.gov.in/,4.7,2131,57,North,45
+"Heritage, Pilgrimage",Tirupati,Sri Venkateshwara Temple ,http://www.tamilnadutourism.org,4.3,1892,58,South,55
+Scenic,Lonavala,Tiger's Leap,http://www.maharashtratourism.gov.in/,4.1,3578,59,Southwest,20
+Historic,Poovar,Vizhinjam Harbour,http://www.keralatourism.org,4.8,337,60,South,40
+"Heritage,Historic",Pushkar,Temples and Fests,http://www.tourism.rajasthan.gov.in/,4.1,568,61,West,50
+Scenic,Gulmarg,Himalayan Valley,http://www.jktourism.jk.gov.in/,5,1387,62,North,73
+Pilgrimage,Shirdih,Sai Temple,http://www.maharashtratourism.gov.in/,4.3,1765,63,Southwest,37
+"Modern, Scenic",Chandigarh,Rose Garden,http://chandigarhtourism.gov.in/,4,2121,64,North,50
+Scenic,Kausani,Nanda Devi Peak,http://uttarakhandtourism.gov.in/,4.9,223,65,North,35
+Scenic,Madikeri,Raja's Seat,https://www.karnatakatourism.org/,4.6,987,66,South,40
+"Scenic, Pilgrimage",Manikaran,Gurudwara Shri Manikaran Sahab,https://himachaltourism.gov.in/,4.1,1289,67,North,50
+"Heritage, Historic",Gwalior,Gwalior Fort,http://www.mptourism.com,3.8,1762,68,Central,48
+"Seaside, Scenic",Pondicherry,Basilica of Sacred Heart of Jesus,http://www.pondytourism.in/,4.3,1210,69,Southeast,67

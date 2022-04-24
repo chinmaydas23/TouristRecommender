@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DMPA Project</title>
+    <link rel="stylesheet" href="./index.css">
+</head>
+<body style = "background-color: lightgray;">
+    <div class="container" style="font-family: sans-serif; color:black; font-size: 2rem; display: flex; align-items: center; justify-content: center; flex-direction: column; margin-top: 10rem;">
+        <div>
+            Hello
+        </div>
+        <div style = "font-size: 2rem; margin-bottom: 20px;">
+            Enter your preferences: 
+        </div>
+        <div style = "font-size: 1rem; margin-bottom: 20px;">Categories possible : Pilgrimage, Historic, Seaside, Heritage, Modern, Scenic</div>
+        <div style = "font-size: 1rem; margin-bottom: 20px;">Regions possible : North, West, South, East, Southwest, Northeast </div>
+        <form action="{% url 'test' %}" style="font-size: 2rem; display: flex; align-items: center; justify-content: center; flex-direction: column; font-size: 1.5rem; margin: 10px;">
+            {{ form }}
+            <br>
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+</body>
+</html>
